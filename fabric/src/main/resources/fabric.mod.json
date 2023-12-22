@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tardisrefined_example",
+  "version": "${version}",
+  "name": "tardisrefined_example",
+  "description": "An Example Addon Mod for Tardis Refined",
+  "authors": [],
+  "contact": {},
+  "license": "GNU LGPL 3.0",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "whocraft.tardis_refined.addon.example.fabric.TRAddonExampleFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.3",
+    "minecraft": ">=1.20.2"
+  }
+}
