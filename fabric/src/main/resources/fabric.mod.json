@@ -12,7 +12,8 @@
   "entrypoints": {
     "main": [
       "whocraft.tardis_refined.addon.example.fabric.TRAddonExampleFabric"
-    ]
+    ],
+    "client": [ "whocraft.tardis_refined.addon.example.fabric.TRAddonExampleFabricClient"]
   },
   "depends": {
     "fabricloader": ">=0.15.3",
