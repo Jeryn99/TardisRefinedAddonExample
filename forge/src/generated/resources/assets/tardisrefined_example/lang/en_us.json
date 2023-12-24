@@ -1,0 +1,12 @@
+{
+  "upgrade.tardisrefined_example.force_field_generator": "Force Field Generator",
+  "upgrade.tardisrefined_example.force_field_generator.description": "Generates a protective force field around the TARDIS, enhancing its defense capabilities.",
+  "upgrade.tardisrefined_example.holographic_disguise": "Holographic Disguise",
+  "upgrade.tardisrefined_example.holographic_disguise.description": "Provides the TARDIS with a holographic disguise, making it blend into its surroundings.",
+  "upgrade.tardisrefined_example.teleportation": "Teleportation",
+  "upgrade.tardisrefined_example.teleportation.description": "Allows the TARDIS to teleport to a different location.",
+  "upgrade.tardisrefined_example.time_travel": "Time Travel",
+  "upgrade.tardisrefined_example.time_travel.description": "Unlocks the ability to travel through time, allowing the TARDIS to visit different eras and periods.",
+  "upgrade.tardisrefined_example.wormhole_jump": "Wormhole Jump",
+  "upgrade.tardisrefined_example.wormhole_jump.description": "Enables the TARDIS to perform a quick and efficient wormhole jump to a specified location."
+}
