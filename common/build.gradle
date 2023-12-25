@@ -9,6 +9,14 @@ architectury {
     common("fabric", "forge")
 }
 
+def generatedResources = project(":forge").file("src/generated/resources")
+
+sourceSets {
+    main {
+        resources.srcDir generatedResources
+    }
+}
+
 publishing {
     publications {
         mavenCommon(MavenPublication) {
